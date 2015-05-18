@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+# this function will create a matrix with the supporting properties of storing its inverse when it is calculated
 # this function will make an object which contains 4 elements. 2 of the will return a value and 2 of them will set a property
 
 makeCacheMatrix <- function(x = matrix()) {
